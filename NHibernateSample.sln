@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NHibernateSample.Entity", "NHibernateSample.Entity\NHibernateSample.Entity.csproj", "{01F1E402-5E40-4095-BD8A-E913CEA91BB5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NHibernateSample.OrmConfig", "NHibernateSample.OrmConfig\NHibernateSample.OrmConfig.csproj", "{0DE82853-EF7E-4F08-A802-317D452AB53F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NHibernateSample.Util", "NHibernateSample.Util\NHibernateSample.Util.csproj", "{B24D00A5-3195-4865-9106-BD3900E4479C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NHibernateSample.EntityMap", "NHibernateSample.EntityMap\NHibernateSample.EntityMap.csproj", "{742B1334-4BCE-4272-BE77-425611D0711D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NHibernateSample.Repository", "NHibernateSample.Repository\NHibernateSample.Repository.csproj", "{0C6C4D97-2799-45B6-B290-5F3DEBAB1F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHibernateSample.ConsoleApp", "NHibernateSample.ConsoleApp\NHibernateSample.ConsoleApp.csproj", "{21116668-3856-4C25-89EA-81763EF90083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01F1E402-5E40-4095-BD8A-E913CEA91BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F1E402-5E40-4095-BD8A-E913CEA91BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F1E402-5E40-4095-BD8A-E913CEA91BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F1E402-5E40-4095-BD8A-E913CEA91BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE82853-EF7E-4F08-A802-317D452AB53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE82853-EF7E-4F08-A802-317D452AB53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE82853-EF7E-4F08-A802-317D452AB53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE82853-EF7E-4F08-A802-317D452AB53F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24D00A5-3195-4865-9106-BD3900E4479C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24D00A5-3195-4865-9106-BD3900E4479C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24D00A5-3195-4865-9106-BD3900E4479C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24D00A5-3195-4865-9106-BD3900E4479C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{742B1334-4BCE-4272-BE77-425611D0711D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742B1334-4BCE-4272-BE77-425611D0711D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742B1334-4BCE-4272-BE77-425611D0711D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742B1334-4BCE-4272-BE77-425611D0711D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6C4D97-2799-45B6-B290-5F3DEBAB1F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6C4D97-2799-45B6-B290-5F3DEBAB1F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6C4D97-2799-45B6-B290-5F3DEBAB1F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6C4D97-2799-45B6-B290-5F3DEBAB1F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21116668-3856-4C25-89EA-81763EF90083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21116668-3856-4C25-89EA-81763EF90083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21116668-3856-4C25-89EA-81763EF90083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21116668-3856-4C25-89EA-81763EF90083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3356733D-998F-4AED-BBF9-37C5A90D9903}
+	EndGlobalSection
+EndGlobal

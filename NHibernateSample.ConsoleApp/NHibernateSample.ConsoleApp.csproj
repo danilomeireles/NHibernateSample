@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NHibernateSample.EntityMap\NHibernateSample.EntityMap.csproj" />
+    <ProjectReference Include="..\NHibernateSample.Entity\NHibernateSample.Entity.csproj" />
+    <ProjectReference Include="..\NHibernateSample.OrmConfig\NHibernateSample.OrmConfig.csproj" />
+    <ProjectReference Include="..\NHibernateSample.Repository\NHibernateSample.Repository.csproj" />
+    <ProjectReference Include="..\NHibernateSample.Util\NHibernateSample.Util.csproj" />
+  </ItemGroup>
+
+</Project>
